@@ -268,11 +268,10 @@ class Game:
 
 ```
 
-<h2>Sample Input and Output</h2>
+<h2> Sample Input and Output </h2>
 
-![image](https://github.com/user-attachments/assets/fbe792c8-749e-4e60-94b3-509018e029eb)
 
-![image](https://github.com/user-attachments/assets/eca87a85-2832-4fe3-a648-78ae2c3fbfd3)
+![image](https://github.com/user-attachments/assets/ff23f34f-c6b7-4d88-b445-59c2f2b0c67d)
 
 
 <hr>
