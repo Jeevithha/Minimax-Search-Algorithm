@@ -103,11 +103,14 @@ def minimax(game)
 end
 
 <hr>
+
 <h3>program</h3>
+
+
+
 ```
 
 import time
-
 class Game:
     def __init__(self):
         self.initialize_game()
@@ -270,10 +273,10 @@ class Game:
 
 <h2> Sample Input and Output </h2>
 
+![image](https://github.com/user-attachments/assets/e9fc214e-76db-4100-b8e2-4d233eaf3e5e)
 
-![image](https://github.com/user-attachments/assets/ff23f34f-c6b7-4d88-b445-59c2f2b0c67d)
 
 
-<hr>
+
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
